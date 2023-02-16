@@ -1,0 +1,10 @@
+^E:\FLUTTER\INSTA_CLONE\BUILD\WINDOWS\CMAKEFILES\FBD830772A7C522873538D51D077AF05\GENERATE.STAMP.RULE
+setlocal
+"E:\installations\visual studio\installation\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/flutter/insta_clone/windows -BE:/flutter/insta_clone/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/flutter/insta_clone/build/windows/insta_clone.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

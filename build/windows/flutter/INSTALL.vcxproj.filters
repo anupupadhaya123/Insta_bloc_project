@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\flutter\insta_clone\build\windows\CMakeFiles\0c7a9d3d2bf053a2bcbae84e6e672f58\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9A54AF95-C83D-3129-87E6-32088DFF0018}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

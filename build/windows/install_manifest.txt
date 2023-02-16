@@ -1,0 +1,11 @@
+E:/flutter/insta_clone/build/windows/runner/Debug/data/icudtl.dat
+E:/flutter/insta_clone/build/windows/runner/Debug/flutter_windows.dll
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/assets/ic_instagram.svg
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/assets/instagram.png
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/assets/profile_default.png
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/flutter/insta_clone/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
